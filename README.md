@@ -2,4 +2,4 @@
 
 Contains an overview of the field content of the Standard Model of particle physics.
 
-![screenshot][screenshot.png]
+![screenshot](screenshot.png)
